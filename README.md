@@ -2,6 +2,13 @@
 
 A full-stack Retrieval-Augmented Generation (RAG) system with user authentication, document-level isolation, hybrid retrieval, reranking, multimodal document processing, and cited LLM answers.
 
+## Frontend Preview
+
+<p align="center">
+  <img src="assets/login.png" width="48%" />
+  <img src="assets/main.png" width="48%" />
+</p>
+
 ## Features
 
 - User registration and login with JWT authentication
