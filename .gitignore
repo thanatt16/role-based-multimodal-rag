@@ -1,0 +1,11 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# LiveAvatar API
+frontend/app/api/liveavatar/
+frontend/avatar/
+
+
+data/
